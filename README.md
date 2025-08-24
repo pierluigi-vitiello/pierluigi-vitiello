@@ -26,7 +26,7 @@ I enjoy combining **theory and practice**, working on projects ranging from **vi
 
 ## 📌 Featured Projects  
 - ☁ **University OpenStack Project**  
-  Experimental plugin *Simple AI Helper* for dynamic VM resource allocation.  
+  Experimental plugin 
 
 - 🔐 **Security Lab**  
   Test environments for attacks, defenses, and real-world cybersecurity scenarios.  
