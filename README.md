@@ -50,3 +50,15 @@ My goal is to develop IT solutions that are **secure, scalable, and resilient**,
 
 ---
 ⭐ *“Knowledge is the only weapon that sharpens itself the more you use it.”*
+
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark" alt="Quotes">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierluigi-vitiello&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pierluigi-vitiello&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=pierluigi-vitiello&theme=dark&hide_border=true" />
+</p>
